@@ -1,0 +1,31 @@
+<?php
+
+
+defined("DATALIFEENGINE") || exit;
+
+$lang['order'] = "ردیف";
+$lang['situation'] = "وضعیت";
+$lang['date'] = "تاریخ";
+$lang['amount'] = "مبلغ (تومان)";
+$lang['transid'] = "شناسه پیگیری";
+$lang['info'] = "متن پیام";
+$lang['email'] = "ایمیل";
+$lang['mobile'] = "موبایل";
+$lang['name'] = "نام کامل";
+$lang['actions'] = "اقدامات";
+$lang['success_transactions'] = "تراکنش های موفق";
+$lang['snpayment_t'] = "پرداخت آنلاین";
+$lang['snpayment_d'] = "ماژول پرداخت آنلاین با سرویس درگاه واسط درگاه پرداخت";
+$lang['toman'] = "تومان";
+
+$lang['verification_error'] = "خطا در ارزیابی صحت تراکنش  : ";
+$lang['verified_msg'] = "پرداخت کامل شد";
+$lang['payment_error'] = "خطا در فرآیند پرداخت";
+$lang['fields_required'] = "لطفا فیلد های پرداخت را تکمیل فرمائید";
+$lang['name_required'] = "تکمیل فیلد نام الزامی است...";
+$lang['amount_required'] = "مبلغ وارد شده صحیح نیست. لطفا در درج مبلغ مورد نظر دقت فرمائید...";
+$lang['address_required'] = "آدرس ایمیل وارد شده صحیح نیست. لطفا از یک آدرس صحیح استفاده نمائید...";
+$lang['verified_complete'] = "پرداخت شما با موفقیت در سیستم ثبت گردید. شناسه پیگیری شما: " ;
+
+$lang['webservice'] = "آیتم های اختیاری وب سرویس";
+$lang['webservice_desc'] = "در صورت فعال بودن ، اطلاعات خریدار در پنل کاربری ثبت خواهد شد. " ;
